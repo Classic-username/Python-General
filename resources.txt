@@ -1,0 +1,13 @@
+google drive book:
+https://drive.google.com/file/d/1ofdF5YtRlQbk0FdV_nNkgeJzicVa5IvM/view
+
+python shell online:
+https://www.python.org/shell/
+
+python docs:
+https://docs.python.org/3/
+(book says we should be on 3.6-3.11)
+
+Beginners guides:
+https://wiki.python.org/moin/BeginnersGuide
+https://wiki.python.org/moin/BeginnersGuide
