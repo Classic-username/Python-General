@@ -1,0 +1,6 @@
+6/2/24
+Created github repo
+Read to page 21 in book
+Created hello_world.py file
+Created resources.txt file, added resources to resources file
+Created update log file
