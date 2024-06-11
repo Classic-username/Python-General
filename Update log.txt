@@ -4,3 +4,7 @@ Read to page 21 in book
 Created hello_world.py file
 Created resources.txt file, added resources to resources file
 Created update log file
+
+6/11/24
+Child deleted folder, need to create a new user for them
+Read to page (58 book, 73 PDF)
